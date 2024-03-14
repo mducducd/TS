@@ -7,4 +7,5 @@ vae basic variants
 - vector quantized (todo)
 - ddim (todo)
 - ...
+
 time series shape(B,T,D)
