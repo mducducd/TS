@@ -1,3 +1,6 @@
 vae basic variants
-
-time series (B,T,D)
+lstm
+transformer (offline/online)
+vector quantized (todo)
+ddim (todo)
+time series shape(B,T,D)
